@@ -1,0 +1,360 @@
+# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-4-6.html
+FixedPageUI [
+	TextColor = #FFFFFF
+	BackgroundColor = #23272e
+	SelectionColor = #c0caff
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	GradientColors = #0e0f12
+	HideScrollbars = true
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	TextIconColor = #ffff00
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = en
+InverseSearchCmdLine = "C:\Users\sangb\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\sangb\AppData\Local\Programs\Microsoft VS Code\resources\app\out\cli.js"  --ms-enable-electron-run-as-node -r -g "%f:%l"
+EnableTeXEnhancements = true
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+Shortcuts [
+	[
+		Cmd = CmdToggleMenuBar
+		Key = F9
+	]
+]
+EscToExit = false
+ReuseInstance = false
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #282c35
+FullPathInTitle = false
+ShowMenubar = true
+ShowToolbar = true
+ShowFavorites = false
+ShowToc = true
+TocDy = 0
+SidebarDx = 229
+ToolbarSize = 18
+TabWidth = 300
+TreeFontSize = 0
+SmoothScroll = false
+ShowStartPage = true
+CheckForUpdates = true
+WindowState = 1
+WindowPos = 952 0 976 1208
+UseTabs = true
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\STAT\STAT 410\Assignment\Indoor_positioning_system\lib\Paper\Paper.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 274.112
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1208
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Zotero Papers\Papers\REU 2022 Summer\Weekly Report\Final Report\Final Report.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 15.3006 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\Grad\SOP-2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\MTH\MTH 456\HW 5\HW 5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\MTH\MTH 456\HW 4\4-556 HW 4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 15.3006
+		PageNo = 6
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1208
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\MTH\MTH 456\HW 6\HW 6.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 390.714
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\MTH\MTH 456\HW 3\HW 3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1208
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\sangb\Desktop\School\Classes\STAT\STAT 464\HW 1\HW-1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1208
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1 8
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\MTH\MTH 456\HW 2\HW 2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 701.224
+		PageNo = 11
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 229
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\sangb\Desktop\School\Classes\STAT\STAT 364\Lectures\STAT364FULL_PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 777.204
+		PageNo = 20
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 952 0 976 1208
+		ShowToc = true
+		SidebarDx = 227
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 18 21
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\STAT\STAT 410\Final Paper\scifile.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 296.072
+		PageNo = 4
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 227
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\STAT\STAT 410\Paper\JASAtemplate.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1200
+		ShowToc = false
+		SidebarDx = 227
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = c:\Users\sangb\Desktop\School\Classes\STAT\STAT 410\Interview Summary\Interview Summary.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 952 0 976 1208
+		ShowToc = false
+		SidebarDx = 227
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 31001220 1656048130
+OpenCountWeek = 622
+
+# Settings below are not recognized by the current version
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #f8f8f2
+	BackgroundColor = #21222c
+	UseFixedPageUI = false
+]
+AssociateSilently = true
