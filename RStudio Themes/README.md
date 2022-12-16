@@ -5,8 +5,8 @@
 <div align="center">
 <table>
   <tr>
-    <th>One Dark</th>
     <th>Nord</th>
+    <th>One Dark</th>
   </tr>
   <tr>
     <td><img src="/RStudio%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
