@@ -2,7 +2,7 @@
 FixedPageUI [
 	TextColor = #FFFFFF
 	BackgroundColor = #23272e
-	SelectionColor = #c0caff
+	SelectionColor = #ABB2BF
 	WindowMargin = 2 4 2 4
 	PageSpacing = 4 4
 	GradientColors = #0e0f12
