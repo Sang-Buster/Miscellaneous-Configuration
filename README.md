@@ -5,7 +5,7 @@
 <div align="center">
 <img src="Linux%20Ricing/README.assets/Linux_Ricing.png" width="300">
 
-[<kbd>Visit Here</kbd>](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
+[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
 
@@ -23,7 +23,7 @@
 <div align="center">
 <table>
   <tr>
-    <th>Nord [<kbd>Visit Here</kbd>](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)</th>
+    <th>Nord</th>
     <th>One Dark</th>
   </tr>
   <tr>
@@ -31,6 +31,8 @@
     <td><img src="/RStudio%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
   </tr>
 </table>
+
+[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes)
 </div>
 
 
@@ -48,4 +50,6 @@
     <td><img src="/SumatraPDF%20Themes/README.assets/One-Dark.png" width="500" /></td>
   </tr>
 </table>
+
+[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
 </div>
