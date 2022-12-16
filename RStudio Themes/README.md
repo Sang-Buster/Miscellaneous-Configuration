@@ -17,7 +17,7 @@
 
 <h2 align="center">Installation</h2>
 
-1. Go to your RStudio installation path, find the folder named `themes` , folder path may differ between operating systems. (i.e., in Windows, the default path is `C:\Program Files\RStudio\resources\themes`)
+1. Go to your RStudio installation path, find the folder named `themes` , folder path may differ between operating systems. (i.e., in Windows, the default path may be located at `C:\Program Files\RStudio\resources\themes`)
 
 2. Download the `One-Dark.rstheme` or `Nord.rstheme`above, move the `.rstheme` file into `themes` folder.
 
