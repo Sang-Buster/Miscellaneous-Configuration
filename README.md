@@ -7,3 +7,18 @@
 
 [<kbd>Visit Here</kbd>](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
+
+<h2 align="center">RStudio Theme Preview</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <th>Nord</th>
+    <th>One Dark</th>
+  </tr>
+  <tr>
+    <td><img src="/RStudio%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/RStudio%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
+  </tr>
+</table>
+</div>
