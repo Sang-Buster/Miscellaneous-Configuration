@@ -6,9 +6,9 @@ RestoreSession = true
 TabWidth = 300
 
 FixedPageUI [
-	TextColor = #f8f8f2
-	BackgroundColor = #21222c
-	SelectionColor = #44475a
+	TextColor = #FFFFFF
+	BackgroundColor = #2E3440
+	SelectionColor = #D8DEE9
 	GradientColors = #0e0f12
 	WindowMargin = 2 4 2 4
 	PageSpacing = 4 4

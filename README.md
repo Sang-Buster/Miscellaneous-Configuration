@@ -22,3 +22,20 @@
   </tr>
 </table>
 </div>
+
+<h2 align="center">SumatraPDF Theme Configuration</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <th>Nord</th>
+    <th>One Dark</th>
+  </tr>
+  <tr>
+    <td><img src="/SumatraPDF%20Themes/README.assets/Nord.png" width="500" /></td>
+    <td><img src="/SumatraPDF%20Themes/README.assets/One-Dark.png" width="500" /></td>
+  </tr>
+</table>
+</div>
+
+<h2 align="center">Installation</h2>
