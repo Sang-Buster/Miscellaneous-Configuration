@@ -23,7 +23,7 @@
 </table>
 </div>
 
-<h2 align="center">SumatraPDF Theme Configuration</h2>
+<h2 align="center">SumatraPDF Theme Preview</h2>
 
 <div align="center">
 <table>
