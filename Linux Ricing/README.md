@@ -2,7 +2,7 @@
 
 ![Ricing](README.assets/Linux_Ricing.png)
 
-<h2 align="center">Apps and Sources:</h2>
+<h2 align="center">Apps and Sources</h2>
 
 - Colour scheme: [Nord](https://github.com/arcticicestudio/nord)
 - GTK and base shell theme: [Nordic](https://github.com/EliverLara/Nordic) (Other recommended: [Graphite Nord Compact](https://github.com/vinceliuice/Graphite-gtk-theme))
