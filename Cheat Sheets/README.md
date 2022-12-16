@@ -2,7 +2,7 @@
 
 <h2 align="center">Latex</h2>
 <div align="center">
-<img src="/Cheat%20Sheets/README.assets/Latex.png"/>
+<img src="/Cheat%20Sheets/README.assets/Latex.png" width="350"/>
 
 [<kbd>View More</kbd>](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat%20Sheets/Latex.pdf)
 </div>
@@ -10,5 +10,5 @@
 
 <h2 align="center">Markdown</h2>
 <p align="center">
-<img src="/Cheat%20Sheets/README.assets/Markdown.png"/>
+<img src="/Cheat%20Sheets/README.assets/Markdown.png" width="350"/>
 </p>
