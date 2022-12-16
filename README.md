@@ -8,12 +8,22 @@
 [<kbd>Visit Here</kbd>](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
+
+
+<h2 align="center">Cheat Sheets</h2>
+
+- [Latex](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat%20Sheets/Latex.pdf)
+
+- [Markdown](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat%20Sheets/Markdown.pdf)
+
+
+
 <h2 align="center">RStudio Theme Preview</h2>
 
 <div align="center">
 <table>
   <tr>
-    <th>Nord</th>
+    <th>Nord [<kbd>Visit Here</kbd>](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)</th>
     <th>One Dark</th>
   </tr>
   <tr>
@@ -22,6 +32,8 @@
   </tr>
 </table>
 </div>
+
+
 
 <h2 align="center">SumatraPDF Theme Preview</h2>
 
@@ -37,5 +49,3 @@
   </tr>
 </table>
 </div>
-
-<h2 align="center">Installation</h2>
