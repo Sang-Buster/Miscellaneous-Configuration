@@ -3,7 +3,16 @@
 <h2 align="center">Fedora Gnome Ricing</h2>
 
 <div align="center">
-<img src="Linux%20Ricing/README.assets/Linux_Ricing.png" width="300">
+<table>
+  <tr>
+    <th>Homepage</th>
+    <th>Infos</th>
+  </tr>
+  <tr>
+    <td><img src="/Linux%20Ricing/README.assets/Home.png" width="500" /></td>
+    <td><img src="/Linux%20Ricing/README.assets/Infos.png" width="500" /></td>
+  </tr>
+</table>
 
 [![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
@@ -12,11 +21,20 @@
 
 <h2 align="center">Cheat Sheets</h2>
 
-- [Latex](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat%20Sheets/Latex.pdf)
+<div align="center">
+<table>
+  <tr>
+    <th>Latex</th>
+    <th>Markdown</th>
+  </tr>
+  <tr>
+    <td><img src="/Cheat%20Sheets/README.assets/Latex.png" width="500" /></td>
+    <td><img src="/Cheat%20Sheets/README.assets/Markdown.png" width="500" /></td>
+  </tr>
+</table>
 
-- [Markdown](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat%20Sheets/Markdown.pdf)
-
-
+[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat%20Sheets)
+</div>
 
 <h2 align="center">RStudio Theme Preview</h2>
 
