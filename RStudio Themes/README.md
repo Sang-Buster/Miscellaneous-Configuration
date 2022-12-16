@@ -19,6 +19,6 @@
 
 1. Go to your RStudio installation path, find the folder named `themes` , folder path may differ between operating systems. (i.e., in Windows, the default path may be located at `C:\Program Files\RStudio\resources\themes`)
 
-2. Download the `One-Dark.rstheme` or `Nord.rstheme`above, move the `.rstheme` file into `themes` folder.
+2. Download the `One-Dark.rstheme` or `Nord.rstheme` above, move the `.rstheme` file into `themes` folder.
 
 3. Apply the theme by going into RStudio IDE, in the menu bar, find `Tools > Global Options > Appearance > Editor theme:`, select the theme you want, and click `Apply` to enjoy! :)
