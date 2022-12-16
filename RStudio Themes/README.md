@@ -9,8 +9,8 @@
     <th>Nord</th>
   </tr>
   <tr>
-    <td><img src="/RStudio%20Themes/README.assets/Nord%20Theme%20Preview.png" width="300" /></td>
-    <td><img src="/RStudio%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="300" /></td>
+    <td><img src="/RStudio%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/RStudio%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
   </tr>
 </table>
 </div>
