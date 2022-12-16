@@ -12,3 +12,13 @@
   </tr>
 </table>
 </div>
+
+<h2 align="center">Installation</h2>
+
+1. Go to your SumatraPDF installation path, find the file named `SumatraPDF-settings.txt` , file path may differ depending on your OS. (i.e., in Windows, the default path is `C:\Users\usr_name\AppData\Local\SumatraPDF\SumatraPDF-settings.txt`)
+
+2. Rename `SumatraPDF-settings.txt` as a back up file. (i.e., `SumatraPDF-settings_backUp.txt`)
+
+3. Download the `Dracula.txt` or `One-Dark.txt` above, and rename the downloaded `.txt` file to `SumatraPDF-settings.txt`.
+
+4. The theme should applied immediately if not restart SumatraPDF, and enjoy! :)
