@@ -6,7 +6,7 @@
 <table>
   <tr>
     <th>Homepage</th>
-    <th>Infos</th>
+    <th>Preview</th>
   </tr>
   <tr>
     <td><img src="/Linux%20Ricing/README.assets/Home.png" width="500" /></td>
