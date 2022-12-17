@@ -6,6 +6,7 @@
 
 - Colour Scheme: [Nord](https://github.com/arcticicestudio/nord)
 - GTK and Shell Theme: [Nordic](https://github.com/EliverLara/Nordic) (Other recommended: [Graphite Nord Compact](https://github.com/vinceliuice/Graphite-gtk-theme))
+- Shell Prompt Theme: [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (Other recommended: [Tela Circle](https://github.com/vinceliuice/Tela-circle-icon-theme))
 - Cursor: [Nordic Cursors](https://www.gnome-look.org/p/1662218/)
 - Folder: [Nordic Bluish Folder](https://www.pling.com/p/1733012/) (Other recommended:[Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders))
