@@ -6,10 +6,10 @@
 
 - Colour Scheme: [Nord](https://github.com/arcticicestudio/nord)
 - GTK and Shell Theme: [Nordic](https://github.com/EliverLara/Nordic) (Other recommended: [Graphite Nord Compact](https://github.com/vinceliuice/Graphite-gtk-theme))
-- Shell Prompt Theme: [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)
-- Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (Other recommended: [Tela Circle](https://github.com/vinceliuice/Tela-circle-icon-theme))
+- Shell Prompt Theme: [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)-[Atomic](https://ohmyposh.dev/docs/themes#atomic). (Other recommended: [powerlevel10k_rainbow](https://ohmyposh.dev/docs/themes#powerlevel10k_rainbow))
+- Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (Other recommended: [Tela](https://github.com/vinceliuice/Tela-icon-theme), [Tela Circle](https://github.com/vinceliuice/Tela-circle-icon-theme), [Nordzy-icon](https://github.com/alvatip/Nordzy-icon))
 - Cursor: [Nordic Cursors](https://www.gnome-look.org/p/1662218/)
-- Folder: [Nordic Bluish Folder](https://www.pling.com/p/1733012/) (Other recommended:[Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders))
+- Folder: [Nordic Bluish Folder](https://www.pling.com/p/1733012/) (Other recommended:[Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders), [Papirus-Nord](https://github.com/Adapta-Projects/Papirus-Nord))
 - Firefox: 
   - Tab Theme: [Minimalist Nord](https://github.com/canbeardig/MinimalistFox)
   - Homepage Theme: [Nordic Theme](https://github.com/EliverLara/firefox-nordic-theme)
