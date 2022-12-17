@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
+[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
 
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes)
+[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes)
 </div>
 
 
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
+[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
 </div>
 
 
@@ -72,5 +72,5 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-100000?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat%20Sheets)
+[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat%20Sheets)
 </div>
