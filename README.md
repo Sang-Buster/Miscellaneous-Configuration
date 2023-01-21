@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
+[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Windows%20Ricing)
 </div>
 
 
