@@ -25,7 +25,7 @@
 
 <h3 align="center">Reference</h3>
 
-- Terminal Theme: [One Half Dark]([Windows Terminal Color Schemes | Microsoft Learn](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes#one-half-dark) (Other recommended: [Nord]([GitHub - thismat/nord-windows-terminal: Nord theme for windows terminal](https://github.com/thismat/nord-windows-terminal))
+- Terminal Theme: [One Half Dark](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes#one-half-dark) (Other recommended: [Nord](https://github.com/thismat/nord-windows-terminal))
 - Shell Prompt Theme: [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)-[powerlevel10k_rainbow](https://ohmyposh.dev/docs/themes#powerlevel10k_rainbow). (Other recommended: [Atomic](https://ohmyposh.dev/docs/themes#atomic))
 
 ---
