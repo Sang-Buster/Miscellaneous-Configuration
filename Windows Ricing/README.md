@@ -1,4 +1,4 @@
-<h1 align="center">My Fedora Ricing</h1>
+<h1 align="center">My Windows Ricing</h1>
 
 <h2 align="center">Theme Preview</h2>
 
