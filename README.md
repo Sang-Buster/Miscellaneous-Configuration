@@ -13,7 +13,8 @@
     <td><img src="/Linux%20Ricing/README.assets/Infos.png" width="500" /></td>
   </tr>
 </table>
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Windows%20Ricing)
+
+[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
 <h2 align="center">Windows Ricing</h2>
@@ -29,6 +30,7 @@
     <td><img src="/Windows%20Ricing/README.assets/File_Explorer.png" width="500" /></td>
   </tr>
 </table>
+
 [![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
