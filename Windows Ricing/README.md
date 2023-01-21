@@ -7,7 +7,7 @@
 <h3 align="center">Installation</h3>
 
 Applying theme by: 
-1. Download [Rainmeter](https://www.rainmeter.net/) softerware
+1. Download [Rainmeter](https://www.rainmeter.net/) software
 2. Download `Nord_Scheme.rmskin` from `src` folder
 3. Them `.rmskin` file should automatically be recognized by Rainmeter, and click on it to install.  If it's not recognized, right click on the file and open it with Rainmeter application. 
 4. Install Nord theme for Windows by following below link: 
@@ -37,7 +37,7 @@ Applying theme by:
 
 <h3 align="center">Reference</h3>
 
-- Cursor: [Nordic Cursors](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-nord-cursor-909562097)
+- Cursor Theme: [Nordic Cursors](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-nord-cursor-909562097)
 
 <h2 align="center">Browser Homepage Preview</h2>
 
