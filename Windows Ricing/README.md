@@ -1,6 +1,7 @@
 <h1 align="center">My Fedora Ricing</h1>
 
 <h2 align="center">Theme Preview</h2>
+
 ![Ricing](README.assets/Windows_Ricing.png)
 
 <h3 align="center">Reference</h3>
@@ -19,6 +20,7 @@
 ---
 
 <h2 align="center">Terminal Theme Preview</h2>
+
 ![Nord_Cursor](README.assets/Terminal_preview.png)
 
 <h3 align="center">Reference</h3>
@@ -29,6 +31,7 @@
 ---
 
 <h2 align="center">Nord Cursor Preview</h2>
+
 ![Nord_Cursor](README.assets/Cursor_preview.png)
 
 <h3 align="center">Reference</h3>
@@ -38,9 +41,11 @@
 ---
 
 <h2 align="center">Browser Homepage Preview</h2>
+
 ![Nord_Cursor](README.assets/Browser_preview.png)
 
 <h2 align="center">Browser Tab Preview</h2>
+
 ![Nord_Cursor](README.assets/Tab_preview.png)
 
 <h3 align="center">Reference</h3>
