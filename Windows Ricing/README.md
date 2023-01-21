@@ -4,6 +4,15 @@
 
 ![Ricing](README.assets/Windows_Ricing.png)
 
+<h3 align="center">Installation</h3>
+
+Applying theme by: 
+1. Download [Raminmeter](https://www.rainmeter.net/) softerware
+2. Download `Nord_Scheme.rmskin` from `src` folder
+3. Them `.rmskin` file should automatically be recognized by Raminmetet, and click on it to install, or right click on thw file and open it with Rainmeter application. 
+4. Install Nord theme for Windows by following below link: 
+	- [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689))
+
 <h3 align="center">Reference</h3>
 
 - Rainmeter Skins Creit: 
@@ -11,10 +20,6 @@
 	- [Mond](https://www.deviantart.com/illu90/art/Minimalist-Desktop-880464406)
 	- [Sonder](https://www.deviantart.com/michaelpurses/art/Sonder-Rainmeter-skin-838147223)
 	- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
-- Windows Nord Theme: 
-	- [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689))
-	- [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
-	- [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en)
 - Wallpaper: [Nord](https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Nord/Nord_Mt.jpeg)
 
 ---
@@ -36,7 +41,7 @@
 
 <h3 align="center">Reference</h3>
 
-- Cursor: [Nordic Cursors](https://www.gnome-look.org/p/1662218/)
+- Cursor: [Nordic Cursors](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-nord-cursor-909562097)
 
 ---
 
@@ -55,5 +60,5 @@
   	- Homepage Theme: [Nordic Theme](https://github.com/EliverLara/firefox-nordic-theme)
   	- New Tab Theme: [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 - Edge/Chrome: 
-	- Tab Theme: [Nord]([Nord Theme for Chrome V2 by sublime9-design on DeviantArt](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227))
+	- Tab Theme: [Nord](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227)
 	- Homepage Theme: [Infinity Pro](https://github.com/EliverLara/firefox-nordic-theme)
