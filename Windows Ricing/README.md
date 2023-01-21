@@ -22,8 +22,6 @@ Applying theme by:
 	- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
 - Wallpaper: [Nord](https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Nord/Nord_Mt.jpeg)
 
----
-
 <h2 align="center">Terminal Theme Preview</h2>
 
 ![Nord_Cursor](README.assets/Terminal_preview.png)
@@ -33,8 +31,6 @@ Applying theme by:
 - Terminal Theme: [One Half Dark](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes#one-half-dark) (Other recommended: [Nord](https://github.com/thismat/nord-windows-terminal))
 - Shell Prompt Theme: [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)-[powerlevel10k_rainbow](https://ohmyposh.dev/docs/themes#powerlevel10k_rainbow). (Other recommended: [Atomic](https://ohmyposh.dev/docs/themes#atomic))
 
----
-
 <h2 align="center">Nord Cursor Preview</h2>
 
 ![Nord_Cursor](README.assets/Cursor_preview.png)
@@ -43,15 +39,11 @@ Applying theme by:
 
 - Cursor: [Nordic Cursors](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-nord-cursor-909562097)
 
----
-
 <h2 align="center">Browser Homepage Preview</h2>
 
 ![Nord_Cursor](README.assets/Browser_preview.png)
 
 <h2 align="center">Browser Tab Preview</h2>
-
-![Nord_Cursor](README.assets/Tab_preview.png)
 
 <h3 align="center">Reference</h3>
 
@@ -61,4 +53,4 @@ Applying theme by:
   	- New Tab Theme: [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 - Edge/Chrome: 
 	- Tab Theme: [Nord](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227)
-	- Homepage Theme: [Infinity Pro](https://github.com/EliverLara/firefox-nordic-theme)
+	- Homepage Theme: [Infinity Pro](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=en-US)
