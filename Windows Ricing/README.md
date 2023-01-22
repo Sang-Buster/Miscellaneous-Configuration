@@ -10,7 +10,7 @@ Applying theme by:
 1. Download [Rainmeter](https://www.rainmeter.net/) software
 2. Download `Nord_Scheme.rmskin` from `src` folder
 3. The `.rmskin` file should automatically be recognized by Rainmeter, and click on it to install.  If it's not recognized, right click on the file and open it with Rainmeter application. 
-4. Install Nord theme for Windows by following below link: [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689))
+4. Install Nord theme for Windows by following this link: [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689))
 
 <h3 align="center">Reference</h3>
 
