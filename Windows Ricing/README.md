@@ -10,13 +10,12 @@ Applying theme by:
 1. Download [Rainmeter](https://www.rainmeter.net/) software
 2. Download `Nord_Scheme.rmskin` from `src` folder
 3. The `.rmskin` file should automatically be recognized by Rainmeter, and click on it to install.  If it's not recognized, right click on the file and open it with Rainmeter application. 
-4. Install Nord theme for Windows by following below link: 
-	- [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689))
+4. Install Nord theme for Windows by following below link: [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689))
 
 <h3 align="center">Reference</h3>
 
 - Rainmeter Skins Creit: 
-	- [Corner Dock](https://www.deviantart.com/sinndbad/art/Corner-Dock-839311234)
+	- [Corner Dock](https://www.deviantart.com/sinndbad/art/Corner-Dock-839311234) (Note: Be sure to change to app directory to your owns directory by right click on corner dock, select  `settings`, the third option from context menu, and edit it in a text editor/notepad, save it and refresh the skin)
 	- [Mond](https://www.deviantart.com/illu90/art/Minimalist-Desktop-880464406)
 	- [Sonder](https://www.deviantart.com/michaelpurses/art/Sonder-Rainmeter-skin-838147223)
 	- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
