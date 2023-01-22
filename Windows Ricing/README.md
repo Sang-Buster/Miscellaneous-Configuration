@@ -45,6 +45,7 @@ Applying theme by:
 
 <h2 align="center">Browser Tab Preview</h2>
 
+![Nord_Tab](README.assets/Tab_preview.png)
 <h3 align="center">Reference</h3>
 
 - Firefox: 
