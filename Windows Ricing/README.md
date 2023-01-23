@@ -15,7 +15,7 @@ Applying theme by:
 <h3 align="center">Reference</h3>
 
 - Rainmeter Skins Creit: 
-	- [Corner Dock](https://www.deviantart.com/sinndbad/art/Corner-Dock-839311234) (Note: Be sure to change to app directory to your owns directory by right click on corner dock, select  `settings`, the third option from context menu, and edit it in a text editor/notepad, save it and refresh the skin)
+	- [Corner Dock](https://www.deviantart.com/sinndbad/art/Corner-Dock-839311234) (Note: Be sure to change icons' app directories to your owns directories by right click on corner dock, select  `settings`, the third option from context menu, and edit it in a text editor/notepad, save it and refresh the skin)
 	- [Mond](https://www.deviantart.com/illu90/art/Minimalist-Desktop-880464406)
 	- [Sonder](https://www.deviantart.com/michaelpurses/art/Sonder-Rainmeter-skin-838147223)
 	- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
