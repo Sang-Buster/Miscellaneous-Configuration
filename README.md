@@ -1,4 +1,5 @@
 <h1 align="center">Miscellaneous-Configuration</h1>
+<h6 align="center">Various Configurations/Themings/Cheat Sheets</p>
 
 <h2 align="center">Fedora Gnome Ricing</h2>
 
