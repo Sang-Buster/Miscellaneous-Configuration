@@ -52,5 +52,5 @@ Applying theme by:
   	- Homepage Theme: [Nordic Theme](https://github.com/EliverLara/firefox-nordic-theme)
   	- New Tab Theme: [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 - Edge/Chrome: 
-	- Tab Theme: [Nord](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227)
+	- Tab Theme: [Nord](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227) (Or using this [Nord](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj) theme for pure color)
 	- Homepage Theme: [Infinity Pro](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=en-US)
