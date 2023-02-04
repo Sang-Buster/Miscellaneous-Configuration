@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
 <h2 align="center">Windows Ricing</h2>
@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Windows%20Ricing)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Windows%20Ricing)
 </div>
 
 
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes)
 </div>
 
 
@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
 </div>
 
 
@@ -89,5 +89,5 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-0d1117?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat%20Sheets)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat%20Sheets)
 </div>
