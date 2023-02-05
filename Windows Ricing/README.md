@@ -32,7 +32,9 @@ Applying theme by:
 
 <h2 align="center">Nord Cursor Preview</h2>
 
-![Nord_Cursor](README.assets/Cursor_preview.png)
+<p align="center">
+<img src="README.assets/Cursor_preview.png" width=500em />
+</p>
 
 <h3 align="center">Reference</h3>
 
@@ -40,11 +42,14 @@ Applying theme by:
 
 <h2 align="center">Browser Homepage Preview</h2>
 
-![Nord_Cursor](README.assets/Browser_preview.png)
+![Browser_preview](README.assets/Browser_preview.png)
 
 <h2 align="center">Browser Tab Preview</h2>
 
-![Nord_Tab](README.assets/Tab_preview.png)
+<p align="center">
+<img src="README.assets/Tab_preview.png" width=500em />
+</p>
+
 <h3 align="center">Reference</h3>
 
 - Firefox: 
