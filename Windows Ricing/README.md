@@ -14,7 +14,7 @@
 
 - Customization for Windows system/file explorer :
 
-Install Nord theme for Windows by following this link: [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689). Note: Themes are not necessarily applicable to the entire system)
+Install Nord theme for Windows by following this link: [Nord Theme](https://www.deviantart.com/niivu/art/NORD-for-Windows-11-22H2-928730071) (Other recommended: [One Dark Theme](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-22H2-930312689). Note: Themes are **NOT** necessarily applicable to the entire system)
 
 <h3 align="center">Reference</h3>
 
