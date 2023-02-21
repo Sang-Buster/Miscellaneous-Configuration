@@ -27,4 +27,4 @@ If you want the theme to show up in the `Editor Themes:` panel under `Tools> Glo
 
 3. Apply the theme by going into RStudio IDE, in the menu bar, find `Tools > Global Options > Appearance > Editor theme:`, select the theme you want, and click `Apply` to enjoy! :)
 
-Note: After you update RStudio in Windows with this method, the theme will **DISAPPEAR** if you have put the `.rstheme` file inside RStudio installation folder, because updating RStudio in Windows is basically the same as reinstalling it.
+Note: After you update RStudio in Windows using the second method, the theme will **DISAPPEAR** if you have put the `.rstheme` file inside RStudio installation folder, because updating RStudio in Windows is basically the same as reinstalling it.
