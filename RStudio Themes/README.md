@@ -19,7 +19,7 @@
 
 You can install this theme by downloading the `.rstheme` file above, then go to the menu bar of your RStudio IDE, find `Tools>Global Options>Appearance`, and add the `.rstheme` file to the location you downloaded from above.
 
-If you want the theme to show up in the `Editor Themes:' section of `Tools>Global Options>Appearance`, follow this method below: 
+If you want the theme to show up in the `Editor Themes:` panel under `Tools> Global Options > Appearance`, follow the method below: 
 
 1. Go to your RStudio installation path, find the folder named `themes` , folder path may differ between operating systems. (I.e., in Windows, the default path may be located at `C:\Program Files\RStudio\resources\themes`, where other `.rstheme` files are also located in there. In Linux, the default path may be located at `/home/usr_name/.config/rstudio/themes`) 
 
