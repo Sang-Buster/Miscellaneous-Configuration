@@ -59,7 +59,7 @@ Install Nord theme for Windows by following this link: [Nord Theme](https://www.
 - Firefox: 
 	- Tab Theme: [Minimalist Nord](https://github.com/canbeardig/MinimalistFox)
   	- Homepage Theme: [Nordic Theme](https://github.com/EliverLara/firefox-nordic-theme)
-  	- New Tab Theme: [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+  	- New Tab Theme: [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) (Other reccomendded: [Infinity Pro](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=en-US))
 - Edge/Chrome: 
 	- Tab Theme: [Nord](https://www.deviantart.com/sublime9-design/art/Nord-Theme-for-Chrome-V2-837463227) (Or use this [Nord](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj) theme for pure color similar to my homepage preview)
 	- Homepage Theme: [Infinity Pro](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=en-US)
