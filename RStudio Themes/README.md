@@ -40,7 +40,9 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneou
 # to install Nord theme
 rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneous-Configuration/main/RStudio%20Themes/Nord.rstheme", apply = TRUE, force=TRUE)
 ```
-If it does not take effect immediately, please try restart RStudio. If functions are not highlighted, check the box `Tools > Global Options > Code > Display > Highlight R function calls`.
+If it does not take effect immediately, please try restart RStudio. 
+
+If functions are not highlighted, check the box `Tools > Global Options > Code > Display > Highlight R function calls`.
 
 ---
 
