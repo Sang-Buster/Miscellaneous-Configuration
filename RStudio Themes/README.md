@@ -40,10 +40,6 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneou
 # to install Nord theme
 rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneous-Configuration/main/RStudio%20Themes/Nord.rstheme", apply = TRUE, force=TRUE)
 ```
-If it does not take effect immediately, please try restart RStudio. 
-
-If functions are not highlighted, check the box from `Tools > Global Options > Code > Display > Highlight R function calls`.
-
 ---
 
 <h3 align="center">Method 2 - Download Manually</h3>
@@ -60,4 +56,9 @@ If you want the theme to show up in the `Editor Themes:` panel under `Tools> Glo
 
 3. Apply the theme by going into RStudio IDE, in the menu bar, find `Tools > Global Options > Appearance > Editor theme:`, select the theme you want, and click `Apply` to enjoy! :)
 
-Note: After you update RStudio in Windows using the first/third method, the theme will **DISAPPEAR** if you have put the `.rstheme` file inside RStudio installation folder, because updating RStudio in Windows is basically the same as reinstalling it.
+---
+
+Note: 
+- After you update RStudio in Windows using the first/third method, the theme will **DISAPPEAR** if you have put the `.rstheme` file inside RStudio installation folder, because updating RStudio in Windows is basically the same as reinstalling it.
+- If it does not take effect immediately, please try restart RStudio. 
+- If functions are not highlighted, check the box from `Tools > Global Options > Code > Display > Highlight R function calls`.
