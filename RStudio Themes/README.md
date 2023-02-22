@@ -19,6 +19,7 @@
 
 <h3 align="center">Method 1 - Using Command Line</h3>
 If you're comfortable installing theme from the console and do not have `rstudioapi` installed then you can copy and run the following in your console:
+
 ```r
 install.packages("rstudioapi")
 ```
@@ -39,7 +40,7 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneou
 # to install Nord theme
 rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneous-Configuration/main/RStudio%20Themes/Nord.rstheme", apply = TRUE, force=TRUE)
 ```
-If it does not take effect immediately, please try restart RStudio.
+If it does not take effect immediately, please try restart RStudio. If functions are not highlighted, check the box `Tools > Global Options > Code > Display > Highlight R function calls`.
 
 ---
 
