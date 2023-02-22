@@ -42,7 +42,7 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneou
 ```
 If it does not take effect immediately, please try restart RStudio. 
 
-If functions are not highlighted, check the box `Tools > Global Options > Code > Display > Highlight R function calls`.
+If functions are not highlighted, check the box from `Tools > Global Options > Code > Display > Highlight R function calls`.
 
 ---
 
