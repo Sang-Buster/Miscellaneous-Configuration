@@ -62,6 +62,6 @@ If you want the theme to show up in the `Editor Themes:` panel under `Tools> Glo
 ---
 
 Note: 
-- After you update RStudio in Windows using the first/third method, the theme will **DISAPPEAR** if you have put the `.rstheme` file inside RStudio installation folder, because updating RStudio in Windows is basically the same as reinstalling it.
+- After you update RStudio in Windows using the first/third method, the theme may **DISAPPEAR** if you have the `.rstheme` file inside RStudio installation folder, because updating RStudio in Windows is basically the same as reinstalling it.
 - If it does not take effect immediately, please try restart RStudio. 
 - If functions are not highlighted, check the box from `Tools > Global Options > Code > Display > Highlight R function calls`.
