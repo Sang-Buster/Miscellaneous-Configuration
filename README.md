@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/MATLAB%20Themes)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Matlab%20Themes)
 </div>
 
 
