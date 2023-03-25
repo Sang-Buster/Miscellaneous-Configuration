@@ -69,8 +69,8 @@
     <th>One Dark</th>
   </tr>
   <tr>
-    <td><img src="/MATLAB%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
-    <td><img src="/MATLAB%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/Matlab%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/Matlab%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
   </tr>
 </table>
 
