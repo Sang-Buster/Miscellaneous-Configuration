@@ -1,6 +1,8 @@
 <h1 align="center">Miscellaneous-Configuration</h1>
 <h6 align="center">Various Configurations/Themings/Cheat Sheets</p>
 
+
+
 <h2 align="center">Fedora Gnome Ricing</h2>
 
 <div align="center">
@@ -18,6 +20,8 @@
 [![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
 </div>
 
+
+
 <h2 align="center">Windows Ricing</h2>
 
 <div align="center">
@@ -34,6 +38,7 @@
 
 [![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Windows%20Ricing)
 </div>
+
 
 
 <h2 align="center">RStudio Theme Preview</h2>
@@ -55,6 +60,25 @@
 
 
 
+<h2 align="center">MATLAB Theme Preview</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <th>Nord</th>
+    <th>One Dark</th>
+  </tr>
+  <tr>
+    <td><img src="/MATLAB%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/MATLAB%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
+  </tr>
+</table>
+
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/MATLAB%20Themes)
+</div>
+
+
+
 <h2 align="center">SumatraPDF Theme Preview</h2>
 
 <div align="center">
@@ -71,7 +95,6 @@
 
 [![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
 </div>
-
 
 
 
