@@ -24,19 +24,11 @@ If you're comfortable installing theme from the console and do not have `rstudio
 ```r
 install.packages("rstudioapi")
 ```
-
-or  if you have `devtools`, use `devtools` to install `rstudioapi` by running the blow command in your console:
-```r
-# install.packages("devtools")
-devtools::install_github("rstudio/rstudioapi")
-```
-
 Then run the following in your console:
 ```r
 # to install One-Dark theme
 rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneous-Configuration/main/RStudio%20Themes/One-Dark.rstheme", apply = TRUE, force=TRUE)
 ```
-
 ```r
 # to install Nord theme
 rstudioapi::addTheme("https://raw.githubusercontent.com/Sang-Buster/Miscellaneous-Configuration/main/RStudio%20Themes/Nord.rstheme", apply = TRUE, force=TRUE)
