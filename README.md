@@ -1,5 +1,5 @@
 <h1 align="center">Miscellaneous-Configuration</h1>
-<h6 align="center">Various Configurations/Themings/Cheat Sheets</p>
+<h6 align="center">Various Configurations/Templates/Themings/Cheat Sheets</p>
 
 
 
