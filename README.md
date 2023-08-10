@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Doc-Template)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Doc-Templates)
 </div>
 
 
