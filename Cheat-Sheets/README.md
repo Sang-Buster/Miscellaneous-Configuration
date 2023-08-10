@@ -6,7 +6,7 @@
         <img src="/Cheat-Sheets/README.assets/Latex.png" width="350"/>
       </a>
   
-  [![](https://img.shields.io/badge/View-More-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat-Sheets/Latex.pdf)
+  [![](https://img.shields.io/badge/View%20More-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat-Sheets/Latex.pdf)
   </div>
 
 

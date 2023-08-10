@@ -7,7 +7,7 @@
         <img src="/Doc-Templates/README.assets/cv.png" width="350"/>
       </a>
   
-  [![](https://img.shields.io/badge/View-More-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Doc-Templates/CV/cv.pdf)
+  [![](https://img.shields.io/badge/View%20More-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Doc-Templates/CV/cv.pdf)
 </div>
 
 

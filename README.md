@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Doc-Templates)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Doc-Templates)
 </div>
 
 
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Ricing-Linux)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Ricing-Linux)
 </div>
 
 
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Ricing-Windows)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Ricing-Windows)
 </div>
 
 
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-RStudio)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-RStudio)
 </div>
 
 
@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-Matlab)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-Matlab)
 </div>
 
 
@@ -110,7 +110,7 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-SumatraPDF)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-SumatraPDF)
 </div>
 
 
@@ -129,5 +129,5 @@
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat-Sheets)
+[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat-Sheets)
 </div>
