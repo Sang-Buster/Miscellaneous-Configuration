@@ -1,18 +1,27 @@
 <div align="center">
 <h1>Doc Templates</h1>
-<table>
-  <tr>
-    <th>CV</th>
-    <th>Statement of Purpose</th>
-  </tr>
-  <tr>
-    <td><img src="/Doc-Templates/README.assets/cv.png" width="500" /></td>
-    <td><img src="/Doc-Templates/README.assets/sop.png" width="500" /></td>
-  </tr>
-</table>
+
+<h2 align="center">CV/Resume</h2>
+  <div align="center">
+      <a href="https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Doc-Templates/CV/cv.pdf">
+        <img src="/Doc-Templates/README.assets/cv.png" width="350"/>
+      </a>
+  
+  [![](https://img.shields.io/badge/View-More-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Cheat-Sheets/Latex.pdf)
 </div>
 
-<h2 align="center">Installation</h2>
+
+
+<h2 align="center">Statement of Purpose</h2>
+  <div align="center">
+    <a href="https://github.com/Sang-Buster/Miscellaneous-Configuration/blob/main/Doc-Templates/SoP/sop.pdf">
+      <img src="/Doc-Templates/README.assets/sop.png" width="350"/>
+    </a>
+</div>
+
+
+<h2>Installation</h2>
+<div>
 
 You need to have a TeX distribution then go to the current fold directory by
 
