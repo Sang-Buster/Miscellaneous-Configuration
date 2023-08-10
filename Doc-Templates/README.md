@@ -21,7 +21,7 @@
 
 
 <h2>Installation</h2>
-<div>
+</div>
 
 You need to have a TeX distribution then go to the current fold directory by
 
