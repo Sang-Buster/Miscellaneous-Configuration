@@ -2,8 +2,25 @@
 <h6 align="center">Various Configurations/Templates/Themings/Cheat Sheets</p>
 
 
+<h2 align="center">Doc Templates</h2>
 
-<h2 align="center">Fedora Gnome Ricing</h2>
+<div align="center">
+<table>
+  <tr>
+    <th>CV</th>
+    <th>Statement of Purpose</th>
+  </tr>
+  <tr>
+    <td><img src="/Doc-Templates/README.assets/cv.png" width="500" /></td>
+    <td><img src="/Doc-Templates/README.assets/sop.png" width="500" /></td>
+  </tr>
+</table>
+
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Doc-Template)
+</div>
+
+
+<h2 align="center">Ricing Fedora Gnome</h2>
 
 <div align="center">
 <table>
@@ -12,17 +29,17 @@
     <th>Preview</th>
   </tr>
   <tr>
-    <td><img src="/Linux%20Ricing/README.assets/Home.png" width="500" /></td>
-    <td><img src="/Linux%20Ricing/README.assets/Infos.png" width="500" /></td>
+    <td><img src="/Ricing-Linux/README.assets/Home.png" width="500" /></td>
+    <td><img src="/Ricing-Linux/README.assets/Infos.png" width="500" /></td>
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Linux%20Ricing)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Ricing-Linux)
 </div>
 
 
 
-<h2 align="center">Windows Ricing</h2>
+<h2 align="center">Ricing Windows</h2>
 
 <div align="center">
 <table>
@@ -31,17 +48,17 @@
     <th>Preview</th>
   </tr>
   <tr>
-    <td><img src="/Windows%20Ricing/README.assets/Home.png" width="500" /></td>
-    <td><img src="/Windows%20Ricing/README.assets/File_Explorer.png" width="500" /></td>
+    <td><img src="/Ricing-Windows/README.assets/Home.png" width="500" /></td>
+    <td><img src="/Ricing-Windows/README.assets/File_Explorer.png" width="500" /></td>
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Windows%20Ricing)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Ricing-Windows)
 </div>
 
 
 
-<h2 align="center">RStudio Theme Preview</h2>
+<h2 align="center">Theme RStudio Preview</h2>
 
 <div align="center">
 <table>
@@ -50,17 +67,17 @@
     <th>One Dark</th>
   </tr>
   <tr>
-    <td><img src="/RStudio%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
-    <td><img src="/RStudio%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/Themes-RStudio/README.assets/Nord.png" width="500" /></td>
+    <td><img src="/Themes-RStudio/README.assets/One-Dark.png" width="500" /></td>
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-RStudio)
 </div>
 
 
 
-<h2 align="center">MATLAB Theme Preview</h2>
+<h2 align="center">Theme MATLAB Preview</h2>
 
 <div align="center">
 <table>
@@ -69,17 +86,17 @@
     <th>One Dark</th>
   </tr>
   <tr>
-    <td><img src="/Matlab%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
-    <td><img src="/Matlab%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/Themes-Matlab/README.assets/Nord.png" width="500" /></td>
+    <td><img src="/Themes-Matlab/README.assets/One-Dark.png" width="500" /></td>
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Matlab%20Themes)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-Matlab)
 </div>
 
 
 
-<h2 align="center">SumatraPDF Theme Preview</h2>
+<h2 align="center">Theme SumatraPDF Preview</h2>
 
 <div align="center">
 <table>
@@ -88,12 +105,12 @@
     <th>One Dark</th>
   </tr>
   <tr>
-    <td><img src="/SumatraPDF%20Themes/README.assets/Nord.png" width="500" /></td>
-    <td><img src="/SumatraPDF%20Themes/README.assets/One-Dark.png" width="500" /></td>
+    <td><img src="/Themes-SumatraPDF/README.assets/Nord.png" width="500" /></td>
+    <td><img src="/Themes-SumatraPDF/README.assets/One-Dark.png" width="500" /></td>
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/SumatraPDF%20Themes)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Themes-SumatraPDF)
 </div>
 
 
@@ -107,10 +124,10 @@
     <th>Markdown</th>
   </tr>
   <tr>
-    <td><img src="/Cheat%20Sheets/README.assets/Latex.png" width="500" /></td>
-    <td><img src="/Cheat%20Sheets/README.assets/Markdown.png" width="500" /></td>
+    <td><img src="/Cheat-Sheets/README.assets/Latex.png" width="500" /></td>
+    <td><img src="/Cheat-Sheets/README.assets/Markdown.png" width="500" /></td>
   </tr>
 </table>
 
-[![](https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat%20Sheets)
+[![](https://img.shields.io/badge/Visit-Here-282c34?style=for-the-badge&logoColor=white)](https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/Cheat-Sheets)
 </div>

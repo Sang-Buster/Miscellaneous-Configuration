@@ -7,15 +7,11 @@
     <th>One Dark</th>
   </tr>
   <tr>
-    <td><img src="/Matlab%20Themes/README.assets/Nord%20Theme%20Preview.png" width="500" /></td>
-    <td><img src="/Matlab%20Themes/README.assets/One-Dark%20Theme%20Preview.png" width="500" /></td>
+    <td><img src="/Themes-Matlab/README.assets/Nord.png" width="500" /></td>
+    <td><img src="/Themes-Matlab/README.assets/One-Dark.png" width="500" /></td>
   </tr>
 </table>
 </div>
-
-<p align="center">
-  <a href="https://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/MATLAB%20Themes"><img src="https://img.shields.io/badge/Visit%20Here-282c34?style=for-the-badge&logoColor=white"></a>
-</p>
 
 <h2 align="center">Installation</h2>
 

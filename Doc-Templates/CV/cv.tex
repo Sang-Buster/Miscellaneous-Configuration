@@ -1,0 +1,131 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+% Modification of Awesome CV (https://github.com/posquit0/Awesome-CV)
+
+% Original Author: Claud D. Park <posquit0.bj@gmail.com>
+% Modified Author:  Sang Xing <hello@singsongaftermath.com>
+
+% Class license:
+% LPPL v1.3c (http://www.latex-project.org/lppl)
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, letterpaper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-skyblue}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+% \definecolor{sectiondivider}{HTML}{5D5D5D}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/righthttps://github.com/Sang-Buster/Miscellaneous-Configuration/tree/main/RStudio%20Themes
+% \photo{./examples/profile.png}
+\name{Your}{Name}
+\position{Data Scientist{\enskip$\vert$\enskip}Math Enthusiast}
+% \address{15055 S Cabernet Ln, Mulino, Oregon, USA}
+\mobile{(+1) 123-456-7890}
+\email{hello@singsongaftermath.com}
+%\dateofbirth{January 1st, 1970}
+\homepage{www.singsongaftermath.com}
+\github{Sang-Buster}
+% \linkedin{posquit0}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{medium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+\quote{"Always grinding \dots"}
+
+\let\headerfont\rmfamily
+\let\headerfontlight\rmfamily
+\let\footerfont\rmfamily
+\let\bodyfont\rmfamily
+\let\bodyfontlight\rmfamily
+
+\usepackage{mathptmx}
+\usepackage{hyperref}
+\usepackage{changepage}   % for the adjustwidth environment
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal information
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Your Name~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\pdfbookmark{Summary}{Summary}
+\input{cv/summary.tex}
+
+\pdfbookmark{Education}{Education}
+\input{cv/education.tex}
+
+\pdfbookmark{Experience}{Experience}
+\input{cv/experience.tex}
+
+\pdfbookmark{Skills}{Skills}
+\input{cv/skills.tex}
+
+\pdfbookmark{Projects}{Projects}
+\input{cv/projects.tex}
+
+\pdfbookmark{Publications}{Publicatoins}
+\input{cv/publications.tex}
+
+\pdfbookmark{Presentations}{Presentations}
+\input{cv/presentations.tex}
+
+\pdfbookmark{Extracurricular}{Extracurricular}
+\input{cv/extracurricular.tex}
+
+\pdfbookmark{Honors}{Honors}
+\input{cv/honors.tex}
+
+\pdfbookmark{Committees}{Committees}
+\input{cv/committees.tex}
+
+\end{document}
