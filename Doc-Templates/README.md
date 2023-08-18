@@ -23,7 +23,7 @@
 <h2>Installation</h2>
 </div>
 
-You need to have a TeX distribution such as [MikTeX](https://miktex.org/) or TeXLive(https://tug.org/texlive/), then go to the current fold directory by
+You need to have a TeX distribution such as [MikTeX](https://miktex.org/) or [TeXLive](https://tug.org/texlive/) or import all files to [overleaf](https://www.overleaf.com/project), then go to the current fold directory by
 
 ```shell
 cd root_dir_of_this_repo
