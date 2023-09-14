@@ -7,7 +7,7 @@
 <div align="center">
 <table>
   <tr>
-    <th>CV</th>
+    <th>Resume/CV</th>
     <th>Statement of Purpose</th>
   </tr>
   <tr>
