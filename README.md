@@ -20,7 +20,7 @@
 </div>
 
 
-<h2 align="center">Ricing Fedora Gnome</h2>
+<h2 align="center">Fedora Gnome Ricing</h2>
 
 <div align="center">
 <table>
@@ -39,7 +39,7 @@
 
 
 
-<h2 align="center">Ricing Windows</h2>
+<h2 align="center">Windows Ricing</h2>
 
 <div align="center">
 <table>
@@ -58,7 +58,7 @@
 
 
 
-<h2 align="center">Theme RStudio Preview</h2>
+<h2 align="center">RStudio Theme Preview</h2>
 
 <div align="center">
 <table>
@@ -77,7 +77,7 @@
 
 
 
-<h2 align="center">Theme MATLAB Preview</h2>
+<h2 align="center">MATLAB Theme Preview</h2>
 
 <div align="center">
 <table>
@@ -96,7 +96,7 @@
 
 
 
-<h2 align="center">Theme SumatraPDF Preview</h2>
+<h2 align="center">SumatraPDF Theme Preview</h2>
 
 <div align="center">
 <table>
